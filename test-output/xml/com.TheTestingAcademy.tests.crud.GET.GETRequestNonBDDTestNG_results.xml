@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="APIAutomationRestAssure"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="9.308">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testGetAllBookingNegative2"
+                time="1.333"
+                classname="com.TheTestingAcademy.tests.crud.GET.GETRequestNonBDDTestNG">
+            </testcase>
+            <testcase
+                name="testGetAllBookingPositive"
+                time="1.287"
+                classname="com.TheTestingAcademy.tests.crud.GET.GETRequestNonBDDTestNG">
+            </testcase>
+            <testcase
+                name="testGetAllBookingNegative"
+                time="6.688"
+                classname="com.TheTestingAcademy.tests.crud.GET.GETRequestNonBDDTestNG">
+            </testcase>
+</testsuite>
