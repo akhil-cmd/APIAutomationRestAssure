@@ -4,20 +4,155 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ec59e64-199e-4ea5-a79c-4a2ce80f288f" name="Changes" comment="" />
+    <list default="true" id="9ec59e64-199e-4ea5-a79c-4a2ce80f288f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/TheTestingAcademy/bpdemo/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/TheTestingAcademy/bpdemo/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/TheTestingAcademy/tests/crud/GET/GETRequestNonBDDTestNG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/TheTestingAcademy/tests/crud/GET/GETRequestNonBDDTestNGbyme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/suite0_test0_results.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/suite0_test0_results.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/xml/com.TheTestingAcademy.tests.crud.GET.GETRequestNonBDDTestNG_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/com.TheTestingAcademy.tests.crud.GET.GETRequestNonBDDTestNG_results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ExportToHTMLSettings">
+    <option name="PRINT_LINE_NUMBERS" value="true" />
+    <option name="OPEN_IN_BROWSER" value="true" />
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2cZpD2isCrYWNqgLyWynZijyUJH" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/AKHIL/IdeaProjects/ATB5xJavaPrograms&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.TheTestingAcademy.tests.crud.GET" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/AKHIL/IdeaProjects/APIAutomationRestAssure/testng.xml">
+    <configuration name="C:/Users/AKHIL/IdeaProjects/APIAutomationRestAssure/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomationRestAssure" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GETRequestNonBDDTestNG" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomationRestAssure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.tests.crud.GET.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.tests.crud.GET" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.tests.crud.GET.GETRequestNonBDDTestNG" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GETRequestNonBDDTestNG2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomationRestAssure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.TheTestingAcademy.tests.crud.GET.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.TheTestingAcademy.tests.crud.GET" />
+      <option name="MAIN_CLASS_NAME" value="com.TheTestingAcademy.tests.crud.GET.GETRequestNonBDDTestNG2" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GETRequestNonBDDTestNGbyme" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomationRestAssure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.TheTestingAcademy.tests.crud.GET.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.TheTestingAcademy.tests.crud.GET" />
+      <option name="MAIN_CLASS_NAME" value="com.TheTestingAcademy.tests.crud.GET.GETRequestNonBDDTestNGbyme" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomationRestAssure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.TheTestingAcademy.tests.crud.GET.test1" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.TheTestingAcademy.tests.crud.GET" />
+      <option name="MAIN_CLASS_NAME" value="com.TheTestingAcademy.tests.crud.GET.test1" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/AKHIL/IdeaProjects/APIAutomationRestAssure/testng.xml" />
+        <item itemvalue="TestNG.GETRequestNonBDDTestNGbyme" />
+        <item itemvalue="TestNG.GETRequestNonBDDTestNG" />
+        <item itemvalue="TestNG.GETRequestNonBDDTestNG2" />
+        <item itemvalue="TestNG.test1" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -29,5 +164,16 @@
       <updated>1708328843885</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/TheTestingAcademy/tests/crud/GET/BDDStyleGET.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

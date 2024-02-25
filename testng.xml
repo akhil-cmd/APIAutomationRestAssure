@@ -1,2 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/AKHIL/IdeaProjects/APIAutomationRestAssure"><classes><class name="com.TheTestingAcademy.tests.crud.GET.GETRequestNonBDDTestNG"><methods><include name="testGetAllBookingPositive"/><include name="testGetAllBookingNegative"/><include name="testGetAllBookingNegative2"/></methods></class></classes></test></suite>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/AKHIL/IdeaProjects/APIAutomationRestAssure">
+        <classes>
+            <class name="com.TheTestingAcademy.tests.crud.GET.GETRequestNonBDDTestNGbyme">
+                <methods>
+                    <include name="testGetAllBookingNegative"/>
+                    <include name="testGetAllBookingNegative2"/>
+                    <include name="testGetAllBookingPositive"/>
+                </methods></class>
+        </classes></test></suite>
