@@ -6,13 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="9ec59e64-199e-4ea5-a79c-4a2ce80f288f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/TheTestingAcademy/bpdemo/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/TheTestingAcademy/bpdemo/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/TheTestingAcademy/tests/crud/GET/GETRequestNonBDDTestNG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/TheTestingAcademy/tests/crud/GET/GETRequestNonBDDTestNGbyme.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/html/suite0_test0_results.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/suite0_test0_results.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/xml/com.TheTestingAcademy.tests.crud.GET.GETRequestNonBDDTestNG_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/com.TheTestingAcademy.tests.crud.GET.GETRequestNonBDDTestNG_results.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/xml/com.TheTestingAcademy.tests.crud.GET.GETRequestNonBDDTestNGbyme_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/com.TheTestingAcademy.tests.crud.GET.GETRequestNonBDDTestNGbyme_results.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +47,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/AKHIL/IdeaProjects/ATB5xJavaPrograms&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
@@ -62,54 +58,13 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.TheTestingAcademy.tests.crud.DELETE" />
+      <recent name="com.TheTestingAcademy.tests.crud.PATCH" />
+      <recent name="com.TheTestingAcademy.tests.crud.POST" />
       <recent name="com.TheTestingAcademy.tests.crud.GET" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/AKHIL/IdeaProjects/APIAutomationRestAssure/testng.xml">
-    <configuration name="C:/Users/AKHIL/IdeaProjects/APIAutomationRestAssure/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="APIAutomationRestAssure" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GETRequestNonBDDTestNG" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="APIAutomationRestAssure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.thetestingacademy.tests.crud.GET.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacademy.tests.crud.GET" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.tests.crud.GET.GETRequestNonBDDTestNG" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GETRequestNonBDDTestNG2" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="APIAutomationRestAssure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.TheTestingAcademy.tests.crud.GET.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.TheTestingAcademy.tests.crud.GET" />
-      <option name="MAIN_CLASS_NAME" value="com.TheTestingAcademy.tests.crud.GET.GETRequestNonBDDTestNG2" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.NonBDDDELETE">
     <configuration name="GETRequestNonBDDTestNGbyme" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="APIAutomationRestAssure" />
       <extension name="coverage">
@@ -127,16 +82,67 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test1" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="NonBDDDELETE" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="APIAutomationRestAssure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.TheTestingAcademy.tests.crud.GET.test1" />
+          <option name="PATTERN" value="com.TheTestingAcademy.tests.crud.DELETE.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.TheTestingAcademy.tests.crud.GET" />
-      <option name="MAIN_CLASS_NAME" value="com.TheTestingAcademy.tests.crud.GET.test1" />
+      <option name="PACKAGE_NAME" value="com.TheTestingAcademy.tests.crud.DELETE" />
+      <option name="MAIN_CLASS_NAME" value="com.TheTestingAcademy.tests.crud.DELETE.NonBDDDELETE" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NonBDDPATCH" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomationRestAssure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.TheTestingAcademy.tests.crud.PATCH.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.TheTestingAcademy.tests.crud.PATCH" />
+      <option name="MAIN_CLASS_NAME" value="com.TheTestingAcademy.tests.crud.PATCH.NonBDDPATCH" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NonBDDPUT" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomationRestAssure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.TheTestingAcademy.tests.crud.PUT.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.TheTestingAcademy.tests.crud.PUT" />
+      <option name="MAIN_CLASS_NAME" value="com.TheTestingAcademy.tests.crud.PUT.NonBDDPUT" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NonBDDStylePost" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomationRestAssure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.TheTestingAcademy.tests.crud.POST.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.TheTestingAcademy.tests.crud.POST" />
+      <option name="MAIN_CLASS_NAME" value="com.TheTestingAcademy.tests.crud.POST.NonBDDStylePost" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -146,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C:/Users/AKHIL/IdeaProjects/APIAutomationRestAssure/testng.xml" />
+        <item itemvalue="TestNG.NonBDDDELETE" />
+        <item itemvalue="TestNG.NonBDDPATCH" />
+        <item itemvalue="TestNG.NonBDDPUT" />
         <item itemvalue="TestNG.GETRequestNonBDDTestNGbyme" />
-        <item itemvalue="TestNG.GETRequestNonBDDTestNG" />
-        <item itemvalue="TestNG.GETRequestNonBDDTestNG2" />
-        <item itemvalue="TestNG.test1" />
+        <item itemvalue="TestNG.NonBDDStylePost" />
       </list>
     </recent_temporary>
   </component>
@@ -172,6 +178,16 @@
           <url>file://$PROJECT_DIR$/src/test/java/com/TheTestingAcademy/tests/crud/GET/BDDStyleGET.java</url>
           <line>13</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/TheTestingAcademy/tests/crud/POST/NonBDDStylePost.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/TheTestingAcademy/tests/crud/PATCH/NonBDDPATCH.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="APIAutomationRestAssure"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="5.358">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testBDDStylePositive"
+                time="5.358"
+                classname="com.TheTestingAcademy.tests.crud.POST.BDDStylePost">
+            </testcase>
+</testsuite>

@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="C:/Users/AKHIL/IdeaProjects/APIAutomationRestAssure"
+<testsuite name="APIAutomationRestAssure"
            tests="3"
            failures="0"
            errors="0"
            skipped="0"
-           time="7.217">
+           time="7.298">
     <properties></properties>
 
 
 
             <testcase
-                name="testGetAllBookingPositive"
-                time="1.334"
+                name="testGetAllBookingNegative2"
+                time="1.261"
                 classname="com.TheTestingAcademy.tests.crud.GET.GETRequestNonBDDTestNGbyme">
             </testcase>
             <testcase
-                name="testGetAllBookingNegative2"
-                time="1.334"
+                name="testGetAllBookingPositive"
+                time="1.318"
                 classname="com.TheTestingAcademy.tests.crud.GET.GETRequestNonBDDTestNGbyme">
             </testcase>
             <testcase
                 name="testGetAllBookingNegative"
-                time="4.549"
+                time="4.719"
                 classname="com.TheTestingAcademy.tests.crud.GET.GETRequestNonBDDTestNGbyme">
             </testcase>
 </testsuite>

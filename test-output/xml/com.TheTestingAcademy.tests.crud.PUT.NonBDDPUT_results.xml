@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="APIAutomationRestAssure"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="5.904">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testPUTRequest"
+                time="5.904"
+                classname="com.TheTestingAcademy.tests.crud.PUT.NonBDDPUT">
+            </testcase>
+</testsuite>
