@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="APIAutomationRestAssure"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="2.834">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testPUTRequest"
+                time="1.473"
+                classname="com.TheTestingAcademy.testng.Test005">
+            </testcase>
+            <testcase
+                name="testPUTRequest2"
+                time="1.361"
+                classname="com.TheTestingAcademy.testng.Test005">
+            </testcase>
+</testsuite>

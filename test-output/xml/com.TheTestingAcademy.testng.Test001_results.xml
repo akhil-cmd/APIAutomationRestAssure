@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="C:/Users/AKHIL/IdeaProjects/APIAutomationRestAssure"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.003">
+    <properties></properties>
+
+
+
+            <testcase
+                name="Demo5"
+                time="0.003"
+                classname="com.TheTestingAcademy.testng.Test001">
+            </testcase>
+</testsuite>
