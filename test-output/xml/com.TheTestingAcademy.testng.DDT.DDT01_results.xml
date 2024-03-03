@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="APIAutomationRestAssure"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.015">
+    <properties></properties>
+
+
+
+            <testcase
+                name="TestLogin"
+                time="0.012"
+                classname="com.TheTestingAcademy.testng.DDT.DDT01">
+            </testcase>
+            <testcase
+                name="TestLogin"
+                time="0.003"
+                classname="com.TheTestingAcademy.testng.DDT.DDT01">
+            </testcase>
+</testsuite>
