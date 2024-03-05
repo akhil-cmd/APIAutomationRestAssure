@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="APIAutomationRestAssure"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="5.518">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testPositive"
+                time="5.518"
+                classname="com.TheTestingAcademy.misc.gson.PostReqTC">
+            </testcase>
+</testsuite>

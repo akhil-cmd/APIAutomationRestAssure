@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ec59e64-199e-4ea5-a79c-4a2ce80f288f" name="Changes" comment="">
+    <list default="true" id="9ec59e64-199e-4ea5-a79c-4a2ce80f288f" name="Changes" comment="test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/suite0_test0_results.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/suite0_test0_results.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,23 +65,24 @@
       <recent name="C:\Users\AKHIL\IdeaProjects\APIAutomationRestAssure\src\test\java\com\TheTestingAcademy\testng\TestNG Examples" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.TheTestingAcademy.misc.gson.example" />
       <recent name="com.TheTestingAcademy.tests.crud.DELETE" />
       <recent name="com.TheTestingAcademy.tests.crud.PATCH" />
       <recent name="com.TheTestingAcademy.tests.crud.POST" />
       <recent name="com.TheTestingAcademy.tests.crud.GET" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.DDT01.TestLogin">
-    <configuration name="DDT01" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.PostReqTC">
+    <configuration name="Demo" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="APIAutomationRestAssure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.TheTestingAcademy.testng.DDT.*" />
+          <option name="PATTERN" value="com.TheTestingAcademy.misc.gson.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.TheTestingAcademy.testng.DDT" />
-      <option name="MAIN_CLASS_NAME" value="com.TheTestingAcademy.testng.DDT.DDT01" />
+      <option name="PACKAGE_NAME" value="com.TheTestingAcademy.misc.gson" />
+      <option name="MAIN_CLASS_NAME" value="com.TheTestingAcademy.misc.gson.Demo" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -86,69 +90,69 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DDT01.TestLogin" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="PayloadUsingMap" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="APIAutomationRestAssure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.TheTestingAcademy.testng.DDT.*" />
+          <option name="PATTERN" value="com.TheTestingAcademy.misc.payloadmap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.TheTestingAcademy.testng.DDT" />
-      <option name="MAIN_CLASS_NAME" value="com.TheTestingAcademy.testng.DDT.DDT01" />
-      <option name="METHOD_NAME" value="TestLogin" />
+      <option name="PACKAGE_NAME" value="com.TheTestingAcademy.misc.payloadmap" />
+      <option name="MAIN_CLASS_NAME" value="com.TheTestingAcademy.misc.payloadmap.PayloadUsingMap" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostReqTC" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomationRestAssure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.TheTestingAcademy.misc.gson.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.TheTestingAcademy.misc.gson" />
+      <option name="MAIN_CLASS_NAME" value="com.TheTestingAcademy.misc.gson.PostReqTC" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Simpleser" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomationRestAssure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.TheTestingAcademy.misc.gson.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.TheTestingAcademy.misc.gson.example" />
+      <option name="MAIN_CLASS_NAME" value="com.TheTestingAcademy.misc.gson.example.Simpleser" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Simpleser.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomationRestAssure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.TheTestingAcademy.misc.gson.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.TheTestingAcademy.misc.gson.example" />
+      <option name="MAIN_CLASS_NAME" value="com.TheTestingAcademy.misc.gson.example.Simpleser" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab011" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="APIAutomationRestAssure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.TheTestingAcademy.testng.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.TheTestingAcademy.testng" />
-      <option name="MAIN_CLASS_NAME" value="com.TheTestingAcademy.testng.Lab011" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test011" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="APIAutomationRestAssure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.TheTestingAcademy.testng.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.TheTestingAcademy.testng" />
-      <option name="MAIN_CLASS_NAME" value="com.TheTestingAcademy.testng.Test011" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test013" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="APIAutomationRestAssure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.TheTestingAcademy.testng.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.TheTestingAcademy.testng" />
-      <option name="MAIN_CLASS_NAME" value="com.TheTestingAcademy.testng.Test013" />
-      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -157,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.DDT01.TestLogin" />
-        <item itemvalue="TestNG.DDT01" />
-        <item itemvalue="TestNG.Test013" />
-        <item itemvalue="TestNG.Lab011" />
-        <item itemvalue="TestNG.Test011" />
+        <item itemvalue="TestNG.PostReqTC" />
+        <item itemvalue="TestNG.Simpleser" />
+        <item itemvalue="TestNG.Simpleser.test1" />
+        <item itemvalue="TestNG.Demo" />
+        <item itemvalue="TestNG.PayloadUsingMap" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +178,31 @@
       <option name="presentableId" value="Default" />
       <updated>1708328843885</updated>
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <option name="closed" value="true" />
+      <created>1709451487484</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709451487484</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
